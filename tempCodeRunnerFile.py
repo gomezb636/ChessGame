@@ -1,1 +1,1 @@
-	Chess.start_game()
+self.
