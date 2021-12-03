@@ -1,2 +1,3 @@
-# cpsc362-group4
-Group project for CPSC-362 class
+# Chess Game
+
+Project for CPSC-362 - Software Engineering class
